@@ -1,0 +1,1 @@
+/home/gtpl/builds/dwm/config.h
